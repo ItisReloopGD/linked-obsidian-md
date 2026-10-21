@@ -15,3 +15,19 @@
 それ　＝　esto (medio)
 あれ　＝　esto (lejos)
 どれ　＝　cual
+どこ ＝　donde
+
+N,  いますた？ ＝　elemento de pregunta
+　　いません　＝　no (negativo)
+　　います　　＝　si (positivo)
+
+いぬがすきです
+
+あたま = cabeza
+め = ojos
+みみ = orejas
+はな = 
+くち = boca
+て　≒ mano
+
+geitai
