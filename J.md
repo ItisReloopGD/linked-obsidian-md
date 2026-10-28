@@ -31,3 +31,8 @@ N,  いますた？ ＝　elemento de pregunta
 て　≒ mano
 
 geitai
+
+さむい　　　（寒い）　　＝frio
+あつい　　　（熱い）　　＝calor (caliente)
+あたたかい　（暖かい）　＝calientito
+
