@@ -36,3 +36,10 @@ geitai
 あつい　　　（熱い）　　＝calor (caliente)
 あたたかい　（暖かい）　＝calientito
 
+きいてください＝escucha porfavor
+かいてください＝escribalo porfavor
+よんでください＝lealo porfavor
+3ページをあけてください＝
+いってください＝Dilo porfavor
+みてください＝mire porfavor
+ペッではなしてください＝en parejas porfavor
